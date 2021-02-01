@@ -1,0 +1,20 @@
+	Our adventurer awaits his calling. 
+
+	Oh, adventuerer! Awake, and seek out your destiny!
+
+	"...huh...huh? Did someone... say something?"
+
+	Quite right, oh young one!
+
+	"...HUH?! There's a voice... in my head?"
+
+	Yes. The adventurer was confused, to hear this tale of wonder. Little did
+	he know, that the voice was a friend.
+
+	"...friend? Do I know you, or something?"
+	
+	//evt
+	
+	
+	
+	
